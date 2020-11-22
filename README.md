@@ -1,2 +1,2 @@
 # NLP
-Natural Language programming on tweets extracted with the word "Data Science". 
+Natural Language programming in R on tweets extracted with the word "Data Science". 
